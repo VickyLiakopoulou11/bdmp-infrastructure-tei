@@ -1,35 +1,49 @@
-# Beckett Digital Manuscript Project (BDMP) – TEI/XML Encoding
+# Beckett Digital Manuscript Project (BDMP) – Encoding and Image Processing Demonstration
 
-This repository documents my technical and editorial contributions as a **Research Software Engineer** to the **Beckett Digital Manuscript Project (BDMP)**, within the framework of the project *Editing Beckett: Towards a Bilingual Digital Genetic Edition of Samuel Beckett's Works* at the **University of Oxford** (2022–2025).
+This repository showcases a synthetic example of the work I performed as part of the **Beckett Digital Manuscript Project (BDMP)**. The content is entirely fictional and serves to demonstrate the technical skills and methodologies applied during the project.
 
-## 📚 Project Overview
+## Project Overview
 
-The BDMP is a major international digital humanities initiative that produces genetic editions of Samuel Beckett’s manuscripts. It provides comprehensive, annotated transcriptions of Beckett’s draft materials across languages and genres. These editions are encoded using a **customized TEI P5 schema** to ensure structural consistency, textual accuracy, and long-term preservation.
+The BDMP aims to digitally reunite Samuel Beckett's manuscripts, facilitating genetic criticism and scholarly research. The project involves:
 
-## 🔧 My Role
+- **Digital Facsimiles**: High-resolution scans of manuscripts.
+- **Transcriptions**: TEI-compliant XML transcriptions of Beckett's works.
+- **Annotations**: Detailed markup of textual features and revisions.
+- **Image-Text Integration**: Linking facsimile images with corresponding transcriptions.
 
-- Developing and delivering **TEI/XML-based digital editions** using the BDMP’s custom encoding model  
-- Contributing to **text encoding, collation, and image-text alignment**  
-- Managing the **project-specific TEI P5 schema**, ensuring it reflects evolving editorial requirements  
-- Supporting the **technical infrastructure** behind the editorial process and publication pipeline  
-- Training and mentoring team members and interns in encoding workflows and TEI best practices  
-- Collaborating with editorial and technical stakeholders across institutions
+For more information, visit the [BDMP website](https://www.beckettarchive.org/).
 
-## 📦 Repository Contents
+## My Contributions
 
-This repository may contain:
-- Sample or placeholder **TEI/XML files** following BDMP conventions  
-- The project's **custom Relax NG schema** (or schema references)  
-- Links to the public **[BDMP Encoding Manual](https://bdmpmanual.uantwerpen.be)**  
-- Scripts, documentation, or workflows (as permitted for public sharing)
+In my role, I was responsible for:
 
-> ⚠️ Due to copyright and project privacy considerations, this repository includes only materials that can be publicly shared. All files are intended for documentation and illustrative purposes only.
+- **TEI P5 XML Encoding**: Transcribing manuscripts into TEI-compliant XML, capturing textual nuances such as additions, deletions, and formatting.
+- **Image Processing with GIMP**: Preparing manuscript images, including cropping, rotating, and enhancing readability.
+- **Zoning and Image-Text Mapping**: Defining zones within manuscript images to align with textual transcriptions, enabling interactive features for users.
+- **Validation and Quality Control**: Ensuring adherence to project-specific encoding guidelines and standards.
 
-## 🔗 External Resources
+## Repository Contents
 
-- 📘 [BDMP Encoding Manual](https://bdmpmanual.uantwerpen.be)  
-- 🌐 [Beckett Digital Manuscript Project Homepage](https://www.beckettarchive.org/)  
+- `demo-tei-sample.xml`: A synthetic TEI-encoded sample demonstrating typical encoding practices.
+- `custom-tei-schema.rng`: An excerpt of the Relax NG schema used for validation.
+- `README.md`: This document.
 
+## Technical Skills Demonstrated
+
+- **TEI P5 XML**: Encoding complex textual features and manuscript variations.
+- **GIMP**: Image editing and preparation for digital publication.
+- **oXygen XML Editor**: Utilizing advanced features for XML editing and validation.
+- **Relax NG**: Implementing schema-based validation for XML documents.
+- **XSLT & XPath**: Transforming and querying XML data for various outputs.
+
+## Additional Resources
+
+- **BDMP Encoding Manual**: Detailed guidelines on encoding practices. [Access the manual](https://bdmpmanual.uantwerpen.be/)
+- **Technical Documentation**: Overview of the project's technical framework. [Read more](https://beckett.flw.uantwerpen.be/exist/apps/bdmp/technical)
+
+## Note
+
+This repository contains only synthetic content created for demonstration purposes. It does not include any actual works of Samuel Beckett or any other copyrighted material.
 ---
 
 
