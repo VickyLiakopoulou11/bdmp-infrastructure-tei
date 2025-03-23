@@ -22,11 +22,6 @@ In my role, I was responsible for:
 - **Zoning and Image-Text Mapping**: Defining zones within manuscript images to align with textual transcriptions, enabling interactive features for users.
 - **Validation and Quality Control**: Ensuring adherence to project-specific encoding guidelines and standards.
 
-## Repository Contents
-
-- `demo-tei-sample.xml`: A synthetic TEI-encoded sample demonstrating typical encoding practices.
-- `custom-tei-schema.rng`: An excerpt of the Relax NG schema used for validation.
-- `README.md`: This document.
 
 ## Technical Skills Demonstrated
 
