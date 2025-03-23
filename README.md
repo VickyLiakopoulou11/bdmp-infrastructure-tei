@@ -17,8 +17,8 @@ For more information, visit the [BDMP website](https://www.beckettarchive.org/).
 
 In my role, I was responsible for:
 
-- **TEI P5 XML Encoding**: Transcribing manuscripts into TEI-compliant XML, capturing textual nuances such as additions, deletions, and formatting.
-- **Image Processing with GIMP**: Preparing manuscript images, including cropping, rotating, and enhancing readability.
+- **TEI P5 XML Encoding**: TEI P5 XML Encoding: Structured complex, multilayered manuscript data using TEI P5 XML, including customization of tagsets, hierarchical encoding of variant readings, and integration of rendering metadata. Developed encoding pipelines within the BDMP architecture.
+- **Image Processing with GIMP**: Image-Text Alignment: Carried out pixel-precise zoning and annotation of manuscript images. Created metadata-bound coordinates to enable facsimile-transcription linkage in XML. Used GIMP to preprocess images (cropping, contrast adjustment) to prepare them for integration into the XML-based viewer.
 - **Zoning and Image-Text Mapping**: Defining zones within manuscript images to align with textual transcriptions, enabling interactive features for users.
 - **Validation and Quality Control**: Ensuring adherence to project-specific encoding guidelines and standards.
 
